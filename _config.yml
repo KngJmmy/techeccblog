@@ -4,5 +4,5 @@ theme: just-the-docs
 
 url: https://blog.deepbytes.cn/
 
-logo: "/assets/images/blog-logo.png"
+favicon_ico: "/assets/images/blog-logo.png"
 
