@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Installation_lazyvim_guide"
 date: 2024-08-26
 categories: [tech, life]
