@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "你好啊"
 date: 2024-08-26
 categories: [tech, life]
