@@ -1,10 +1,8 @@
 ---
 title: "Installation_lazyvim_guide"
 date: 2024-08-26
-categories:
-  - base_tech
-tags:
-  - vimtoide
+categories: [tech, life]
+author: jimmyhuang
 ---
 1. Reference:
 
