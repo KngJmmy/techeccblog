@@ -1,7 +1,8 @@
 title: Jimmy Space
 description: It is a blog record my tech ecc experience in my life!
 theme: just-the-docs
-
+plugins:
+  - jekyll-default-layout
 url: https://blog.deepbytes.cn/
 
 favicon_ico: "/assets/images/blog-logo.png"
