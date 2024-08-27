@@ -28,4 +28,6 @@ I am reading a book named 《the ARTIST's WAY-A Spiritual Path to Higher Creativ
 - 《抓狂两三岁》
 - 《如何在黑暗的房间里找到一只黑猫-尤其是在没有猫的情况下》
 - 《额尔古纳河右岸》
+- 《经济学原理》
+- 《运动改造大脑》
 - To be continue
