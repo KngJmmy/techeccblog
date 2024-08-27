@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Installation_lazyvim_guide"
-date: 2024-08-26
+layout: default
+title: "Install lazyvim"
+date: 2024-08-27
 categories: [tech, life]
 author: jimmyhuang
+parent: LazyVim
 ---
 1. Reference:
 
