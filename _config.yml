@@ -5,6 +5,16 @@ plugins:
   - jekyll-default-layout
 url: https://blog.deepbytes.cn/
 
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 favicon_ico: "/assets/images/blog-logo.png"
 
 # Enable or disable the side/mobile menu globally
@@ -31,3 +41,6 @@ back_to_top_text: "Back to top"
 
 # Enable or disable heading anchors
 heading_anchors: true
+
+# For copy button on code
+enable_copy_code_button: true
