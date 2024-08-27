@@ -7,6 +7,10 @@ permalink: /
 ---
 
 # About me
+{: .warning }
+> The Obstacle is the way.
+> The ego is the enemy.
+
 {: .fs-9 }
 Hey, my dear friends, nice to meet you here. This is my playground for learning and recording tech, like Book Reading, Cyber Security, and Coding. If you’re interested in what I’ve written, feel free to leave your thoughts. Your feedback helps me improve and share more. Thanks for stopping by!
 {: .fs-6 .fw-300 }
@@ -16,9 +20,6 @@ I am reading a book named 《the ARTIST's WAY-A Spiritual Path to Higher Creativ
 
 ## What I read in 2024
 
-{: .warning }
-> The Obstacle is the way.
-> The ego is the enemy.
 
 {: .note }
 - 《Interstellar》
