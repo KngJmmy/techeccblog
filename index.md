@@ -8,7 +8,8 @@ permalink: /
 
 # About me
 
-Hey, my dear friends, nice to meet you here. This is my playground for learning and recording tech, like Book Reading, Cyber Security, and Coding. If you’re interested in what I’ve written, feel free to leave your thoughts. Your feedback helps me improve and share more. Thanks for stopping by!
+Hey, my dear friends, nice to meet you here. I am Jimmy Huang.
+This is my playground for learning and recording tech, like Book Reading, Cyber Security, and Coding. If you’re interested in what I’ve written, feel free to leave your thoughts. Your feedback helps me improve and share more. Thanks for stopping by!
 
 ---
 
