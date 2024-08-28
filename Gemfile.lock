@@ -94,6 +94,7 @@ DEPENDENCIES
   csv
   jekyll (~> 4.3.3)
   jekyll-default-layout
+  jekyll-sass-converter
   just-the-docs (= 0.9.0)
 
 BUNDLED WITH

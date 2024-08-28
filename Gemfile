@@ -9,3 +9,4 @@ gem "just-the-docs", "0.9.0" # pinned to the current release
 gem 'csv'
 gem 'base64'
 gem "jekyll-default-layout"
+gem "jekyll-sass-converter"
