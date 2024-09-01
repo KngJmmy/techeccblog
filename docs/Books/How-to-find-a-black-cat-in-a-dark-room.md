@@ -6,8 +6,8 @@ nav_order: 3
 
 <table>
   <tr>
-    <td><img src=""https://deepbytesblog.s3.bitiful.net/How-to-find-a-black-cat-in-a-black-room-1.jpg?no-wait=on alt="First Image" /></td>
-    <td><img src=""https://deepbytesblog.s3.bitiful.net/How-to-find-a-black-cat-in-a-dark-room-2.jpg?no-wait=on alt="Second Image" /></td>
+    <td><img src="https://deepbytesblog.s3.bitiful.net/How-to-find-a-black-cat-in-a-black-room-1.jpg" alt="First Image" /></td>
+    <td><img src="https://deepbytesblog.s3.bitiful.net/How-to-find-a-black-cat-in-a-dark-room-2.jpg" alt="Second Image" /></td>
   </tr>
 </table>
 ---
