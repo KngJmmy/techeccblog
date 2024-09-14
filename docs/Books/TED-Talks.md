@@ -7,8 +7,8 @@ nav_order: 4
 
 <table>
   <tr>
-    <td><img src=""https://deepbytesblog.s3.bitiful.net/ted-talks0.jpg?no-wait=on alt="First Image" /></td>
-    <td><img src=""https://deepbytesblog.s3.bitiful.net/ted-talks1.jpg?no-wait=on alt="Second Image" /></td>
+    <td><img src=""https://deepbytesblog.s3.bitiful.net/ted-talks0.jpg alt="First Image" /></td>
+    <td><img src=""https://deepbytesblog.s3.bitiful.net/ted-talks1.jpg alt="Second Image" /></td>
   </tr>
 </table>
 ---
